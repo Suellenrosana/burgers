@@ -41,7 +41,7 @@ button {
 button:hover {
     opacity: 0.8;
     color: #220101;
-    text-shadow: #8133ff 0.1em 0.1em 0.1em;
+    text-shadow: #8133ff86 0.1em 0.1em 0.1em;
     transition: 0.3s ease-in-out;
 }
 
@@ -53,11 +53,14 @@ ul {
     padding: 10px;
     justify-content: center;
     text-align: center;
+    
 }
 
 li {
     border: 2px solid #8133ff;
     border-radius: 5px;
+    background: #774504a2;
+    
 }
 
 img {
