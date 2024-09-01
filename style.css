@@ -10,7 +10,7 @@
 
 
 body {
-    background-image: url('./assets/backburgers.png');
+    background-image: url('./assets/backburgers.jpg');
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
@@ -39,7 +39,7 @@ button {
 }
 
 button:hover {
-    opacity: 0.8;
+    opacity: 0.6;
     color: #220101;
     text-shadow: #8133ff86 0.1em 0.1em 0.1em;
     transition: 0.3s ease-in-out;
